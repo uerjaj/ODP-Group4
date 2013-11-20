@@ -1,8 +1,8 @@
 var config = {};
 
 config.data_file = "data/GlobalPop.csv";
-config.column_name = "Country";
-config.column_title = "Population";
+config.column_name = "Population";
+config.column_title = "Country";
 
 config.map_height = "400px";
 config.map_width = "800px";
